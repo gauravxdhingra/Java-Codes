@@ -1,13 +1,6 @@
-package L2_June10;
+package Lect2_Patterns;
 
 import java.util.Scanner;
-
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 10-Jun-2019
- *
- */
 
 public class Pattern6 {
 

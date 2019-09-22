@@ -1,13 +1,6 @@
-package L3_June11;
+package Lect3_Basics;
 
 import java.util.Scanner;
-
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 11-Jun-2019
- *
- */
 
 public class Inverse {
 

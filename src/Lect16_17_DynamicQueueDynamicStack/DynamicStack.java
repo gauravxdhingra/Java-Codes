@@ -1,13 +1,8 @@
-package L16_July16;
+package Lect16_17_DynamicQueueDynamicStack;
 
-import L15_July15.Stack;
+import Lect15_StackQueue.Stack;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 16-Jul-2019
- *
- */
+
 
 public class DynamicStack extends Stack {
 

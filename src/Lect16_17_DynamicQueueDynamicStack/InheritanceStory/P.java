@@ -1,11 +1,4 @@
-package L16_July16.InheritanceStory;
-
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 16-Jul-2019
- *
- */
+package Lect16_17_DynamicQueueDynamicStack.InheritanceStory;
 
 public class P {
 

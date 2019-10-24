@@ -1,11 +1,5 @@
-package L16_July16.InheritanceStory;
+package Lect16_17_DynamicQueueDynamicStack.InheritanceStory;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 16-Jul-2019
- *
- */
 
 public class C extends P {
 
